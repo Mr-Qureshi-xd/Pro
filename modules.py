@@ -1,7 +1,7 @@
 import os,sys,shutil
 from distutils.core import setup, Extension
 from Cython.Build import cythonize
- os.system('pkg install cython')
+os.system('pkg install cython')
 os.system('pip install cython')
 main_file = 'Pro.c'
  
