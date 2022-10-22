@@ -1,1 +1,2 @@
 import Pro
+Pro.make()
